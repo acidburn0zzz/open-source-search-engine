@@ -2,5 +2,5 @@
 #   pip3 install -r requirements.txt
 
 pytest==2.8.3
-requests==2.7.0
+requests==2.20.0
 pytest-localserver==0.3.4
